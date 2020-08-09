@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "675138677778",
+    "firebase_url": "https://flashappflutter.firebaseio.com",
+    "project_id": "flashappflutter",
+    "storage_bucket": "flashappflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675138677778:android:fb96b3a42df922f42f3ccb",
+        "android_client_info": {
+          "package_name": "co.sale1996.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675138677778-ckn8i9cuopnjs3fd3au22lgkni40aore.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskW6qwDgY7ZQ-R6fxeEPO6kS7VIkANdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675138677778-ckn8i9cuopnjs3fd3au22lgkni40aore.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
